@@ -1,2 +1,2 @@
-# helium-sensecap
-Balena OpenFleet for Sensecap Miners
+# SenseCAP Software NBRA vrs w/ AC-SC edits
+Balena OpenFleet controlled software for Sensecap Miners
