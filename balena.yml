@@ -1,28 +1,26 @@
-name: nebra-helium-sensecap
+name: Ay0h-Hnt-sensecap
 type: sw.application
 description: >-
-  Manage your Sensecap Helium Miner remotely using Nebra and balenaCloud.
+  Manage your Sensecap Helium Miner remotely using Terminal and balenaCloud.
 post-provisioning: >-
   ## Usage instructions
   
   
-  Once your device joins the fleet you'll need to allow some time for it to download the application and start forwarding packets to the Helium Network.
+  Once your device joins a fleet you will need to wait for it to download/update the application and start mining the Helium Network.
   
+  For detailed instructions on how to use Ay0h HNT SensecapM1 Firmware check out [our GitHub repo](https://github.com/Ay0hCrypto/Ay0h-HNT-sensecap).
   
-  For detailed instructions on how to use Nebra Helium Sensecap check out [our GitHub repo](https://github.com/NebraLtd/helium-sensecap).
-  
-  
-  For support you can [open an issue](https://github.com/NebraLtd/helium-sensecap/issues) on the repo or reach out to us via one of the methods listed [on our support page](https://helium.nebra.com/support).
+  For support you can [open an issue](https://github.com/Ay0h-HNT-sensecap/issues) on the Repo or reach out to me via Discord.
 assets:
   repository:
     type: blob.asset
     data:
-      url: "https://github.com/NebraLtd/helium-sensecap"
+      url: "https://github.com/Ay0h-HNT-sensecap"
   logo:
     type: blob.asset
     data:
       url: >-
-        https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Icon-Blue_bb758eaa-b10d-4ea6-a55e-babd69135b69.png?v=1620938774
+        
 data:
   defaultDeviceType: raspberrypi4-64
   supportedDeviceTypes:
