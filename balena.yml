@@ -16,7 +16,7 @@ assets:
   repository:
     type: blob.asset
     data:
-      url: "https://github.com/Ay0h-HNT-sensecap"
+      url: "https://github.com/ay0hcrypto/Ay0h-HNT-sensecap"
   logo:
     type: blob.asset
     data:
